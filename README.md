@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @beytullahagitakgun
 - 🌱 I’m currently learning Programming
+- 21.03.2022 I started Java and I will post my works here
 
 <!---
 beytullahagitakgun/beytullahagitakgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
