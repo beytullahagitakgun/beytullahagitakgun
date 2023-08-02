@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @beytullahagitakgun
 - 🌱 I’m currently learning Programming
-- 31.05.2022 I started Java and I will post my works here
 - I hate learning hell I have to pass 
 
 <!---
